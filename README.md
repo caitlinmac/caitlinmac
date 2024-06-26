@@ -18,7 +18,7 @@ Tech Stack <br/>
 🤖 Machine Learning: Scikit learn <br/>
 🧠 Deep Learning: Tensorflow | Keras <br/>
 ☁ Data / ML Engineering: GCP | MLFlow | Prefect | Streamlit <br/>
-🌐 Full Stack Development: HTML | CSS | Javascript <br/>
+🌐 Full Stack Development: Javascript | HTML | CSS  <br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caitlinmac)](https://github.com/caitlinmac/github-readme-stats)
 <!---
