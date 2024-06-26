@@ -7,26 +7,20 @@ I'm currently focused on leveraging machine learning and deep learning to build 
 - 🌱 I’m currently learning more about cloud engineering automation and building on top of powerful open source deep learning models.
 - 💞️ I’m looking to collaborate on health-driven data products and research that benefits from big data methods!
 
-If any of these things resonate with you - please reach out! 
-- ![image](https://github.com/caitlinmac/caitlinmac/assets/160067462/0de416a8-267e-460b-8c04-013bc0e20d12)
- [https://www.linkedin.com/ca](https://www.linkedin.com/in/caitlin-maceachen/)
+If any of these things resonate with you - let's connect! 
+- 🤝 [linkedin.com/caitlin-mac](https://www.linkedin.com/in/caitlin-maceachen/)
 
+
+
+Tech Stack
+📊 Analytics: SQL | Tableau | PowerBI | BigQuery | Sheets | Looker
+💻 Data Science: Python | Numpy | Pandas | Matplotlib | Scipy | Seaborn | Statsmodels
+🤖 Machine Learning: Scikit learn
+🧠 Deep Learning: Tensorflow | Keras
+☁ Data / ML Engineering: GCP | MLFlow | Prefect | Streamlit
+🌐 Full Stack Development: HTML CSS Javascript
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caitlinmac)](https://github.com/caitlinmac/github-readme-stats)
-
-Tools:
-Analytics
-SQL Tableau PowerBI BigQuery Sheets Looker
-Data Science
-Python Numpy Pandas Matplotlib Scipy Seaborn Statsmodels
-Machine Learning
-Scikit learn
-Deep Learning
-Tensorflow Keras
-Data / ML Engineering
-GCP MLFlow Prefect Streamlit
-Full Stack Development
-HTML CSS Javascript
 <!---
 caitlinmac/caitlinmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
