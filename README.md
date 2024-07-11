@@ -13,11 +13,11 @@ If any of these things resonate with you - let's connect!
 
 
 Tech Stack <br/>
-📊 Analytics: SQL | Tableau | PowerBI | BigQuery | Sheets | Looker <br/>
+📊 Analytics: SQL | Tableau | PowerBI | BigQuery | DBT <br/>
 💻 Data Science: Python | Numpy | Pandas | Matplotlib | Scipy | Seaborn | Statsmodels <br/>
 🤖 Machine Learning: Scikit learn <br/>
 🧠 Deep Learning: Tensorflow | Keras <br/>
-☁ Data / ML Engineering: GCP | MLFlow | Prefect | Streamlit <br/>
+☁ Data / ML Engineering: GCP | MLFlow | Prefect | Docker | Streamlit | Snowflake | Airflow <br/>
 🌐 Full Stack Development: Javascript | HTML | CSS  <br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caitlinmac)](https://github.com/caitlinmac/github-readme-stats)
